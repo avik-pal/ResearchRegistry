@@ -4,3 +4,4 @@ repo = "git@github.com:avik-pal/ResearchRegistry.git"
 description = "Registry storing Avik's research projects in Julia"
 
 [packages]
+5882ba5a-74e7-4c16-a18e-2f4110103a84 = { name = "LocalRegNeuralDE", path = "L/LocalRegNeuralDE" }

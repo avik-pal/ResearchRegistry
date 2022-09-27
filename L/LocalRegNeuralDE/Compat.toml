@@ -1,0 +1,18 @@
+[0]
+CUDA = "3"
+ChainRulesCore = "1"
+ComponentArrays = "0.13"
+DiffEqBase = "6"
+DiffEqCallbacks = "2"
+Lux = "0.4.24-0.4"
+MLDatasets = "0.7"
+MLUtils = "0.2.10-0.2"
+NNlib = "0.8"
+OneHotArrays = "0.1"
+Optimisers = "0.2"
+OrdinaryDiffEq = "6"
+SciMLSensitivity = "7"
+Setfield = ["0.8", "1"]
+UnPack = "1"
+Zygote = "0.6"
+julia = "1"

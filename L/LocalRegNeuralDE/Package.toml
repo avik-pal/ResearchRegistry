@@ -1,0 +1,3 @@
+name = "LocalRegNeuralDE"
+uuid = "5882ba5a-74e7-4c16-a18e-2f4110103a84"
+repo = "git@github.com:avik-pal/LocalRegNeuralDE.jl.git"
