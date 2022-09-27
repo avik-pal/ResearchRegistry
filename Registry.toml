@@ -1,0 +1,6 @@
+name = "ResearchRegistry"
+uuid = "e04a6221-963c-434f-aa77-371be7979937"
+repo = "git@github.com:avik-pal/ResearchRegistry.git"
+description = "Registry storing Avik's research projects in Julia"
+
+[packages]
