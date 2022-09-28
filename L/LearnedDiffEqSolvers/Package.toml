@@ -1,0 +1,3 @@
+name = "LearnedDiffEqSolvers"
+uuid = "7f6c502a-6ee0-49c1-b3a1-c591c0cf5656"
+repo = "git@github.com:avik-pal/LearnedDiffEqSolvers.jl.git"

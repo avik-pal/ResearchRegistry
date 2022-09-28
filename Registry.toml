@@ -5,3 +5,4 @@ description = "Registry storing Avik's research projects in Julia"
 
 [packages]
 5882ba5a-74e7-4c16-a18e-2f4110103a84 = { name = "LocalRegNeuralDE", path = "L/LocalRegNeuralDE" }
+7f6c502a-6ee0-49c1-b3a1-c591c0cf5656 = { name = "LearnedDiffEqSolvers", path = "L/LearnedDiffEqSolvers" }
